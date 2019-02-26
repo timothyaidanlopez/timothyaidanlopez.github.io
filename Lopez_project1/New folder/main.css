@@ -1,0 +1,116 @@
+body {
+    background-color: #a2b9bc
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+
+
+.container1 {
+   position: relative;
+    text-align: center;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 26;
+    font-family:cursive
+
+}
+
+.container2 {
+    position: relative;
+    background-color: #878f99;
+    height: 25;
+    border: ridge;
+    
+    
+}
+
+.container3 {
+    position: relative;
+    background-color: #878f99;
+    height: 25;
+    border: ridge;
+    
+}
+
+h4 {
+    font-size: 20;
+    text-align: center;
+    margin-top: 1;
+    color: white;
+}
+
+.container7 {
+   position: relative;
+    text-align: center;
+}
+
+.centered3 {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20;
+    color: white;
+}
+    
+.centered4 {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20;
+    color: white;
+}
+
+.container9 {
+   position: relative;
+    text-align: center;
+}
+
+.centered5 {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 26;
+    color: white;
+
+}
+
+.centered6 {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 23;
+    color: white;
+}
